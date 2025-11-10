@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi I'm Neha
+### | Computer Science Engineer |
 
-<!--
-**nehas005/nehas005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated **Engineering Student** passionate about continually learning new technologies and developing robust, efficient software solutions. My goal is to translate knowledge into practical, high-quality code. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects (Personal)
+
+### 1. [Browser Simulator]
+**[https://github.com/nehas005/Browser-History-Simulator]** | Language: C
+
+### 2. [Spotify Song Finder]
+**[https://github.com/nehas005/Spotify-Song-Tracker]** | Language: JavaScript
+
+### 3. [Web Scraper]
+**[https://github.com/nehas005/Product-Web-Scraper]** | Language: Python
+
+### 4. [To-Do List]
+**[https://github.com/nehas005/to-do-listo]** | Language: JavaScript
+
+---
+
+## Collaborative Contributions
+
+* **CPU Process Scheduler**: Contributed **multiple Algorithm based processing functions** to this library.
+
+  **[https://github.com/geek4s/process-scheduler-]**.
+* **Facial Recognition Based Attendance System**: Contributed **the C functionality** to this library.
+  
+  **[https://github.com/aaronjerry02/Attendance-Marking-Using-Facial-Recognition]**.
+* **4 bit Register**: Contributed **D-flipflop functionality & table simulation in testbench** to this library.
+  
+  **[https://github.com/geek4s/4-bit-reg-with-mux-and-d-flipflop/tree/main]**.
+* **HireNest**: Contributed **Database Mangement & Integration** to this library.
+  
+  **[https://github.com/nehas005/HireNest]**.
+* **Syntax Validator**: Contributed **lexer and main code files** to this library.
+  
+  **[https://github.com/nehas005/Syntax-Validation-PLY-Tools-]**.
+---
+
+##  My Technology Toolkit
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehas005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=nehas005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
