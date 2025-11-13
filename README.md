@@ -17,7 +17,7 @@ I'm a dedicated **Engineering Student** passionate about continually learning ne
 **[https://github.com/nehas005/Product-Web-Scraper]** | Language: Python
 
 ### 4. [To-Do List]
-**[https://github.com/nehas005/to-do-listo]** | Language: JavaScript
+**[https://github.com/nehas005/to-do-list]** | Language: JavaScript
 
 ---
 
