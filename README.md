@@ -23,20 +23,20 @@ I'm a dedicated **Engineering Student** passionate about continually learning ne
 
 ## Collaborative Contributions
 
-1. **HireNest**: Contributed **Frontend Design + Database Mangement & Overall Integration** to this library.
+### 1. **HireNest**: Contributed **Frontend Design + Database Mangement & Overall Integration** to this library.
   
   **[https://github.com/nehas005/HireNest]**.
 
-2. **CPU Process Scheduler**: Contributed **multiple Algorithm based processing functions** to this library.
+### 2. **CPU Process Scheduler**: Contributed **multiple Algorithm based processing functions** to this library.
 
   **[https://github.com/geek4s/process-scheduler-]**.
-3. **Facial Recognition Based Attendance System**: Contributed **the C functionality** to this library.
+### 3. **Facial Recognition Based Attendance System**: Contributed **the C functionality** to this library.
   
   **[https://github.com/aaronjerry02/Attendance-Marking-Using-Facial-Recognition]**.
-4. **4 bit Register**: Contributed **D-flipflop functionality & table simulation in testbench** to this library.
+### 4. **4 bit Register**: Contributed **D-flipflop functionality & table simulation in testbench** to this library.
   
   **[https://github.com/geek4s/4-bit-reg-with-mux-and-d-flipflop/tree/main]**.
-5. **Syntax Validator**: Contributed **lexer and main code files** to this library.
+### 5. **Syntax Validator**: Contributed **lexer and main code files** to this library.
   
   **[https://github.com/nehas005/Syntax-Validation-PLY-Tools-]**.
 ---
